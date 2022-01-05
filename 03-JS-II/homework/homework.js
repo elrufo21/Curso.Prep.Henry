@@ -2,12 +2,10 @@
 
 function obtenerMayor(x, y) {
  if(x>y){
-    console.log("X es mayor  ")
-    mayor=x
+  
     return x
  }
  else  if(y>x){
-  console.log("Y es mayor  ")
   return y
 }
  else{
